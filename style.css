@@ -1,7 +1,7 @@
 body{
-    background-color: hsla(0, 0%, 0%, 0.137);
+    background-color: hsla(0, 40%, 65%, 0.137);
 }
 h1{
-   color: azure;
+   color: rgb(116, 212, 212);
     background-color: hsla(35, 26%, 91%, 0.938);
 }
