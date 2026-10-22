@@ -1,0 +1,3 @@
+[submodule "my-libery"]
+	path = my-libery
+	url = https://git@github.com/Biobaku-Rotimi/my-libery.git
